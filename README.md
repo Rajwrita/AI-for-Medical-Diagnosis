@@ -1,4 +1,4 @@
-# Ai-for-Medical-Diagnosis
+# AI-for-Medical-Diagnosis
 My notes on the course by deeplearning.ai
 
 > U Net Study material:
